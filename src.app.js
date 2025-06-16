@@ -9,7 +9,7 @@ const App = () => {
       location: 'Zimbabwe',
       date: 'June 2025',
       description: 'Experience the majestic waterfalls.',
-      image: 'https://picsum.photos/id/1018/300/200',
+      image: '431144',
       mapLink: 'https://maps.google.com/?q=Victoria+Falls'
     }
   ];
